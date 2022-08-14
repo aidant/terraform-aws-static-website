@@ -17,6 +17,6 @@ terraform {
 }
 
 module "aws_static_website" {
-  source  = "github.com/aidant/terraform-aws-static-website"
+  source = "github.com/aidant/terraform-aws-static-website"
 }
 ```
